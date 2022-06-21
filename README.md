@@ -16,9 +16,12 @@ In order to demonstrate a CloudWatch Alarm, this application allows the user to 
 
 ### Installing
 
-This application is referenced by a Cloudformation template that will install it.
+This application is referenced by a CloudFormation template that will install it.  
+e.g. [AWS Modernization Workshop](https://github.com/aws-samples/aws-modernization-workshop-sample/blob/master/code-samples/cloudformation/sample-web-app/Demo-noasg.yml)
 
 ## Version History
 
 * 0.1
     * Initial Release
+* 0.2
+    * Upgrade of Flask version
